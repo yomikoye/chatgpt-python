@@ -1,0 +1,33 @@
+{
+  "name": "@yomikoye/tea-cup",
+  "version": "1.0.0",
+  "description": "Print ASCII tea cups",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yomikoye/cup-of-tea.git"
+  },
+  "author": "TEA CUPS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yomikoye/cup-of-tea/issues"
+  },
+  "homepage": "https://github.com/yomikoye/cup-of-tea/teacup#readme",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "cup-of-tea",
+    "demo",
+    "ASCII"
+  ],
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "cup-of-tea": "^1.0.1",
+    "npm-packlist": "^8.0.2"
+  }
+}
