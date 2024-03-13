@@ -1,10 +1,11 @@
 {
   "name": "cup-of-tea",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ASCII cups of tea",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "start": "node index.js",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
